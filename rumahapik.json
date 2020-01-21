@@ -1,0 +1,38 @@
+{
+  "name": "RumahApik",
+  "short_name": "RumahApik",
+  "start_url": "https:www.rumahapik.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-pt_YQIuD8uQ/Xib7y8CL3uI/AAAAAAAAAi0/wuTZAH6SAm4WTp5jpEHn45wEwQCM47cNACLcBGAsYHQ/s1600/iconrumahapik48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-10_UGhinpwo/Xib70187cZI/AAAAAAAAAi8/cgIPMt_Hw7YAXuU48zddGt6C8nbphQHHACLcBGAsYHQ/s320/iconrumahapik72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-FI8-0jaGOeA/Xib705ZULvI/AAAAAAAAAi4/Q0e2DF23zaAaIYnrJg3Z9YYlDAZtOrM3gCLcBGAsYHQ/s320/iconrumahapik96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9juslkJbnhA/Xib72sKJfGI/AAAAAAAAAjA/zjZ1kx-cteMdsCP0ZNpHUwNOdXgwHHVdACLcBGAsYHQ/s1600/iconrumahapik144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-JH1jnE7fizQ/Xib74xfKyKI/AAAAAAAAAjI/blHkrqZlK0IA8tBk2FINML8OL8SQjMUxQCLcBGAsYHQ/s320/iconrumahapik168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-BUsSkFkJpC8/Xib744AphQI/AAAAAAAAAjE/TGl86xZToq8YviDOg3ORKdRVR2-_nb_8gCLcBGAsYHQ/s1600/iconrumahapik192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WqjKOk2tWgw/Xib75G7cQWI/AAAAAAAAAjM/aH2jDMWU1eQccoj-MsmYMzmUn9MVoM-aQCLcBGAsYHQ/s320/iconrumahapik512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
